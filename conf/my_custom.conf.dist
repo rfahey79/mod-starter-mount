@@ -1,21 +1,17 @@
 #
-# No Copyright...for now.
+# Copyright (C) 2016+ AzerothCore <www.azerothcore.org>, released under GNU AGPL v3 license: https://github.com/azerothcore/azerothcore-wotlk/blob/master/LICENSE-AGPL3
 #
 
 [worldserver]
 
 ########################################
-# Starter Mount configuration
+# My module configuration
 ########################################
 #
-#    StarterMount.Enable
+#    MyModule.Enable
 #        Description: Enable my module and print "Hello World" message at server start
 #        Default:     0 - Disabled
 #                     1 - Enabled
 #
 
-# Enable this mod
-mod-starting-mount.Enable = 1
-
-# Announce Module's presance to the server
-mod-starting-mount.Announce = 1
+MyModule.Enable = 1
