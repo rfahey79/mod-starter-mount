@@ -15,7 +15,7 @@
 #
 
 # Enable this mod
-mod-starting-mounts.Enable = 1
+mod-starting-mount.Enable = 1
 
 # Announce Module's presance to the server
-mod-starting-mounts.Announce = 1
+mod-starting-mount.Announce = 1
