@@ -20,6 +20,7 @@ CMakeLists.txt.user
 *.BACKUP.*
 *.BASE.*
 *.LOCAL.*
+.vscode/
 
 #
 # IDE & other softwares
