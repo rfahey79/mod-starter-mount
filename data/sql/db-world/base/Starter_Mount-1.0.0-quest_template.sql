@@ -1,7 +1,7 @@
 
 -- START quest_template
 SET
-@id := 6774,
+@id := 35010,
 @questtype := 0,
 @questlevel := 5,
 @minlevel := 5,
@@ -328,7 +328,7 @@ VALUES (
 -- EOF quest_template
 -- START quest_template
 SET
-@id := 6774,
+@id := 35010,
 @questtype := 0,
 @questlevel := 5,
 @minlevel := 5,
@@ -350,7 +350,7 @@ SET
 @startitem := 0,
 @flags := 0,
 @requiredplayerkills := 0,
-@rewarditem1 := 2411,
+@rewarditem1 := 5665,
 @rewardamount1 := 1,
 @rewarditem2 := 0,
 @rewardamount2 := 0,
