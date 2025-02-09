@@ -1,0 +1,21 @@
+#
+# No Copyright...for now.
+#
+
+[worldserver]
+
+########################################
+# Starter Mount configuration
+########################################
+#
+#    StarterMount.Enable
+#        Description: Enable my module and print "Hello World" message at server start
+#        Default:     0 - Disabled
+#                     1 - Enabled
+#
+
+# Enable this mod
+mod-starting-mounts.Enable = 1
+
+# Announce Module's presance to the server
+mod-starting-mounts.Announce = 1
