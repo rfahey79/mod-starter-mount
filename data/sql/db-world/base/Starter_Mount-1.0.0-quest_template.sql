@@ -2708,7 +2708,7 @@ SET
 @logdescription := "Zachariah Post in Brill has a solution to how far we have to travel for these darned quests.
 ",
 @questdescription := "Ah, a new face among the Undying, I see. Fresh from the grave and already eager to walk among the Forsaken. Welcome to our ranks. But there is more to our legacy than just blood and bones; we ride upon the very steeds of the dead, creatures that once galloped through life, now bound to carry us into our eternal struggle.
-"Make your way to Brill. Speak to Zachariah. Learn what you must do to gain your mount. The path of the Forsaken is not one for the weak—let your new steed be a testament to your strength.      
+Make your way to Brill. Speak to Zachariah. Learn what you must do to gain your mount. The path of the Forsaken is not one for the weak—let your new steed be a testament to your strength.      
 ",
 @areadescription := "",
 @questcompletionlog := "",
