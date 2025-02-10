@@ -392,7 +392,10 @@ SET
 @emotedelay2 := 0,
 @emotedelay3 := 0,
 @emotedelay4 := 0,
-@rewardtext := "",
+@rewardtext := "So you're the great hero the King's instructed me to keep an eye out for. There's not much to look at here, but I've been instructed to hand the reins of this mount over to you.
+What? You don't know how to ride? I suspect you want me to teach you that too!
+Well alright. I ain't too happy about this. It's gonna cost you.
+",
 @verifiedbuild := 0;
 
 DELETE FROM quest_offer_reward WHERE
@@ -437,7 +440,10 @@ SET
 @emotedelay2 := 0,
 @emotedelay3 := 0,
 @emotedelay4 := 0,
-@rewardtext := "",
+@rewardtext := "Favor? What favor? We don't owe that pig-dog any favors. In fact here; I was holding this Elekk for him if he ever decided to grow up and realize I don't have any feelings for him.
+What do you mean "What am I supposed to do with this?"? You ride it of course.
+You don't know how to ride? Well I can't help you there, but Torallius can.
+",
 @verifiedbuild := 0;
 
 DELETE FROM quest_offer_reward WHERE
@@ -482,7 +488,8 @@ SET
 @emotedelay2 := 0,
 @emotedelay3 := 0,
 @emotedelay4 := 0,
-@rewardtext := "",
+@rewardtext := "Even? What does he think he means, even...First off, you aren't the first adventurer he's sent my way expecting me to just "give" one of my beloved Nightsabers away. We're way past even...
+",
 @verifiedbuild := 0;
 
 DELETE FROM quest_offer_reward WHERE
@@ -527,7 +534,8 @@ SET
 @emotedelay2 := 0,
 @emotedelay3 := 0,
 @emotedelay4 := 0,
-@rewardtext := "",
+@rewardtext := "Aah Mead....hic...Can't thank you enough laddie, or is it lass? There have been so many travelers by this way with beverages...wait, have we already met? Here, I can't let you leave empty handed. Just take it, it's the least I can do.
+",
 @verifiedbuild := 0;
 
 DELETE FROM quest_offer_reward WHERE
@@ -572,7 +580,9 @@ SET
 @emotedelay2 := 0,
 @emotedelay3 := 0,
 @emotedelay4 := 0,
-@rewardtext := "",
+@rewardtext := "R.I.D.E.? No idea. But tell you the truth I've been spending so much time working on my latest invention. It's not quite ready to give to Milli for resale, but if you're up for testing it out for me, no charge.
+You don't know how to use it? Well, talk to Milli.
+",
 @verifiedbuild := 0;
 
 DELETE FROM quest_offer_reward WHERE
@@ -617,7 +627,9 @@ SET
 @emotedelay2 := 0,
 @emotedelay3 := 0,
 @emotedelay4 := 0,
-@rewardtext := "",
+@rewardtext := "Why yes, I've been thinking of handing Wolfsie off to Ukor. He's been real good at looking after her when I'm away...I've been riding a much faster mount and she doesn't get out of the pen as much as I would like. Here, take her reigns and deliver her to Ukor for me.
+Seems ol' Wolfsie has taken a liking to you. Look, whatever happens to that would after you take possession is no business of mine. If it were me I don't think I'd go flaunting it around in front of Ukor though...
+",
 @verifiedbuild := 0;
 
 DELETE FROM quest_offer_reward WHERE
@@ -662,7 +674,8 @@ SET
 @emotedelay2 := 0,
 @emotedelay3 := 0,
 @emotedelay4 := 0,
-@rewardtext := "",
+@rewardtext := "You are now truly a rider of the Sin'dorei, a warrior worthy of our people's legacy. This mount... it will suit you just fine. Fierce, untamed, and resilient—just like the Sin'dorei themselves.
+",
 @verifiedbuild := 0;
 
 DELETE FROM quest_offer_reward WHERE
@@ -707,7 +720,8 @@ SET
 @emotedelay2 := 0,
 @emotedelay3 := 0,
 @emotedelay4 := 0,
-@rewardtext := "",
+@rewardtext := "Don't think for a moment that this comes without strings attached. The mount may be free, but the training to ride it, to truly command it—that comes with a price.
+",
 @verifiedbuild := 0;
 
 DELETE FROM quest_offer_reward WHERE
@@ -752,7 +766,8 @@ SET
 @emotedelay2 := 0,
 @emotedelay3 := 0,
 @emotedelay4 := 0,
-@rewardtext := "",
+@rewardtext := "These beasts are not like the simple mounts of the cities. They are creatures of power, tied to the very earth and spirit of our people. To ride them properly, you must learn the ways of controlling such a powerful companion. I will give you the reigns for this beast for free, however learning to ride it will come at a cost.
+",
 @verifiedbuild := 0;
 
 DELETE FROM quest_offer_reward WHERE
@@ -797,7 +812,8 @@ SET
 @emotedelay2 := 0,
 @emotedelay3 := 0,
 @emotedelay4 := 0,
-@rewardtext := "",
+@rewardtext := "A beast like that needs a rider with a steady hand, a strong spirit, and a clever mind. And trust me, they ain't just gonna let you ride 'em without teachin' ya a thing or two. What you've got now is free—no charge for the steed itself, no matter how much it's worth. But the training? That will cost ya.
+",
 @verifiedbuild := 0;
 
 DELETE FROM quest_offer_reward WHERE
