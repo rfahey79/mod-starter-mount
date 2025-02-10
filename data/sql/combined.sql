@@ -441,7 +441,7 @@ SET
 @emotedelay3 := 0,
 @emotedelay4 := 0,
 @rewardtext := "Favor? What favor? We don't owe that pig-dog any favors. In fact here; I was holding this Elekk for him if he ever decided to grow up and realize I don't have any feelings for him.
-What do you mean "What am I supposed to do with this?"? You ride it of course.
+What do you mean \"What am I supposed to do with this?\"? You ride it of course.
 You don't know how to ride? Well I can't help you there, but Torallius can.
 ",
 @verifiedbuild := 0;
