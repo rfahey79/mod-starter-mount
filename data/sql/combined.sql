@@ -488,7 +488,7 @@ SET
 @emotedelay2 := 0,
 @emotedelay3 := 0,
 @emotedelay4 := 0,
-@rewardtext := "Even? What does he think he means, even...First off, you aren't the first adventurer he's sent my way expecting me to just "give" one of my beloved Nightsabers away. We're way past even...
+@rewardtext := "Even? What does he think he means, even...First off, you aren't the first adventurer he's sent my way expecting me to just \"give\" one of my beloved Nightsabers away. We're way past even...
 ",
 @verifiedbuild := 0;
 
